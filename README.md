@@ -123,13 +123,13 @@ plt.show()
 ```
 
 # OUTPUT:
-SAMPLE DATASET:
+SAMPLE DATASET:<br>
 ![image](https://github.com/user-attachments/assets/999aa212-6fb7-49dd-bdbd-2074f4688fa3)
 
-3D PLOT:
+3D PLOT:<br>
 ![image](https://github.com/user-attachments/assets/1186165e-bccc-4279-9e60-345d8a71fe76)
 
-2D PLOT AND ERROR GRAPH:
+2D PLOT AND ERROR GRAPH:<br>
 ![image](https://github.com/user-attachments/assets/9b30feae-d9cf-423c-8cc4-0a0d68231c95)
 
 
